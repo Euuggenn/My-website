@@ -3,6 +3,75 @@
 /my_website_backend/.vs
 /my_website_front/.vscode
 /my_website_front/node_modules
+
+# Compiled output
+/my_website_front/dist
+/my_website_front/tmp
+/my_website_front/out-tsc
+/my_website_front/bazel-out
+
+# Node
+/my_website_front/node_modules
+/my_website_front/npm-debug.log
+/my_website_front/yarn-error.log
+
+# IDEs and editors
+*.idea/
+*.project
+*.classpath
+*.c9/
+*.launch
+*.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+/my_website_front/.vscode/*
+!/my_website_front/.vscode/settings.json
+!/my_website_front/.vscode/tasks.json
+!/my_website_front/.vscode/launch.json
+!/my_website_front/.vscode/extensions.json
+/my_website_front/.history/*
+
+# Miscellaneous
+/my_website_front/.angular/cache
+/my_website_front/.sass-cache/
+/my_website_front/connect.lock
+/my_website_front/coverage
+/my_website_front/libpeerconnection.log
+/my_website_front/testem.log
+/my_website_front/typings
+
+# System files
+/my_website_front/.DS_Store
+/my_website_front/Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # compiled output
 /dist
 /tmp
